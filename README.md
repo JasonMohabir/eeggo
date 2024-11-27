@@ -1,5 +1,8 @@
 ### CBB914 Graphical Models for Biological Data
-Last Updated: 11.03.2024 
+
+**EEGGO**: bayesian **E**stimation of **E**ffect-**G**ene **G**uide **O**utcomes 
+
+Last Updated: 11.26.2024 
 
 Authors: Jason Mohabir (jtm98), Ed Ned Neddy ()
 
