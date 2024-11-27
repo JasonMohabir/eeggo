@@ -4,9 +4,9 @@
 
 Last Updated: 11.26.2024 
 
-Authors: Jason Mohabir (jtm98), Ed Ned Neddy ()
+Authors: Jason Mohabir (jtm98), Edward Moseley
 
-Description: Hierarchical Gaussian Mixture Model with Latent Guide Potency
+Mixture Model with Latent Guide Potency
 
 The following paper describes the biological/experimental problem being addressed:
 
