@@ -3,6 +3,7 @@
 **EEGGO**: bayesian **E**stimation of **E**ffect-**G**ene **G**uide **O**utcomes 
 
 Last Updated: 11.26.2024 
+
 Authors: Jason Mohabir (jtm98), Edward Moseley
 
 We implement a Gaussian Mixture Model with Latent Guide Potency in STAN. 
