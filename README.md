@@ -2,6 +2,8 @@
 
 **EEGGO**: bayesian **E**stimation of **E**nhancer-**G**ene **G**uide **O**utcomes 
 
+Probabilistic Graphical Modeling of Gene Expression Modulation by CRISPR Perturbation
+
 Last Updated: 11.26.2024 
 
 Authors: Jason Mohabir (jtm98), Edward Moseley
