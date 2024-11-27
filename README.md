@@ -20,7 +20,7 @@ https://pubmed.ncbi.nlm.nih.gov/30612741/
 
 ## Project Model 
 
-![Plate diagram of Final Model]([https://github.com/JasonMohabir/eeggo/blob/main/plate_diagram_final.png?raw=true])
+![Plate diagram of Final Model](https://github.com/JasonMohabir/eeggo/blob/main/plate_diagram_final.png?raw=true)
 
 ---
 
